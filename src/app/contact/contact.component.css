@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    color:rgb(99, 42, 165);
+}
+h2 {
+    
+    text-align: center;
+    color: brown;
+}
+body {
+    background-color: brown;
+}
+
+img {
+    width: 25%;
+    height: 30%;
+    border: solid;
+    border-color:rgb(116, 42, 165);
+    margin: 100px;;
+}
+.sidenav{
+
+    font-size: 30px;
+}
+.sidenav a{
+    margin-right: 2%;
+}

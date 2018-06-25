@@ -1,0 +1,38 @@
+input {
+    margin: 600px;
+    background-color: brown;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    cursor: pointer;
+}
+body {
+    background-color: none; /* Green */
+}
+
+h1 {
+    text-align: center;
+    color: green;
+    margin: auto;
+    text-decoration-style: bold;
+    
+}
+p {
+    text-align: center;
+    color: green;
+    font-size: 50px;
+}
+.nav{
+    text-align: center;
+   
+}
+a{
+    margin-left:3%;
+    font-size: 50px;
+    color: green;
+}
+

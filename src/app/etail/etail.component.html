@@ -1,0 +1,9 @@
+<div id="body">
+    <div id="left-menu">
+    <app-navbar *ngFor="let page of pages" [page]= "page.page" [name]="page.name" [firstname]= "firstname" [surname]= "surname" [age]= "age" [departure]= "departure" [arrival]= "arrival" [date] ="date" [traveller]="traveller"></app-navbar>
+  
+    </div>
+  </div> 
+  
+  <router-outlet></router-outlet>
+  
