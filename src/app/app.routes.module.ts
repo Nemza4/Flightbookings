@@ -11,7 +11,7 @@ export const AppRoutes=[
     
     {path:'events',component:EventsComponent},
     {path:'about',component:AboutComponent},
-    {path:'contact',component:ContactComponent},
+    {path:'',component:ContactComponent},
     {path: 'booking',component:BookingComponent},
     {path: 'etail',component:EtailComponent, children: [
         {path: 'display',component:DisplayComponent},
